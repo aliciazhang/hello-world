@@ -8,5 +8,5 @@ git commit -m "first commit"
 git remote add origin https://github.com/aliciazhang/hello-world.git
 git push -u origin master
 
-i don't know what the things above is for
-i just copied it from the default page
+don't know what things above are for
+copied from default page
